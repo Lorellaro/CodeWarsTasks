@@ -5,3 +5,10 @@ C:\Users\loren\source\repos\CodeWarsTasks\CodeWarsTasks\obj\Debug\CodeWarsTasks.
 C:\Users\loren\source\repos\CodeWarsTasks\CodeWarsTasks\obj\Debug\CodeWarsTasks.csproj.CoreCompileInputs.cache
 C:\Users\loren\source\repos\CodeWarsTasks\CodeWarsTasks\obj\Debug\CodeWarsTasks.exe
 C:\Users\loren\source\repos\CodeWarsTasks\CodeWarsTasks\obj\Debug\CodeWarsTasks.pdb
+S:\Documents\GitHub\CodeWarsTasks\CodeWarsTasks\bin\Debug\CodeWarsTasks.exe.config
+S:\Documents\GitHub\CodeWarsTasks\CodeWarsTasks\bin\Debug\CodeWarsTasks.exe
+S:\Documents\GitHub\CodeWarsTasks\CodeWarsTasks\bin\Debug\CodeWarsTasks.pdb
+S:\Documents\GitHub\CodeWarsTasks\CodeWarsTasks\obj\Debug\CodeWarsTasks.csproj.AssemblyReference.cache
+S:\Documents\GitHub\CodeWarsTasks\CodeWarsTasks\obj\Debug\CodeWarsTasks.csproj.CoreCompileInputs.cache
+S:\Documents\GitHub\CodeWarsTasks\CodeWarsTasks\obj\Debug\CodeWarsTasks.exe
+S:\Documents\GitHub\CodeWarsTasks\CodeWarsTasks\obj\Debug\CodeWarsTasks.pdb

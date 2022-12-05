@@ -10,11 +10,24 @@ namespace CodeWarsTasks
     {
         static void Main(string[] args)
         {
+            /*
             int[] arr = { 5, 3, 2, 8, 1, 4 };
             for(int i = 0; i < arr.Length; i++)
             {
-                Console.WriteLine(SortArray(arr)[i]);
+                Console.WriteLine(SortArrayOddNum(arr)[i]);
             }
+            Console.ReadLine();
+            */
+
+            
+            string camelCase = "the-stealth-warrior";
+            string upperCamelCase = "The_Stealth_Warrior";
+
+            camelCase = ToCamelCase.toCamelCase(camelCase);
+            upperCamelCase = ToCamelCase.toCamelCase(upperCamelCase);
+
+            Console.WriteLine(camelCase);
+            Console.WriteLine(upperCamelCase);
             Console.ReadLine();
 
             /*
@@ -42,7 +55,7 @@ namespace CodeWarsTasks
         }
 
         //sort odd leave others
-        public static int[] SortArray(int[] array)
+        public static int[] SortArrayOddNum(int[] array)
         {
             List<int> oddNumArr = new List<int>();
             for(int i = 0; i < array.Length; i++)
