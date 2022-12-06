@@ -43,9 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountBits.cs" />
+    <Compile Include="FindIt.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SortArrayOddNum.cs" />
+    <Compile Include="SpinWords.cs" />
     <Compile Include="ToCamelCase.cs" />
+    <Compile Include="TwoSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
