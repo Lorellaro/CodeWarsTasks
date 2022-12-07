@@ -21,8 +21,6 @@ namespace CodeWarsTasks
                     }
                 }
 
-                Console.WriteLine(tmpTotalOccurences);
-
                 if (tmpTotalOccurences % 2 == 1)
                 {
                     return seq[i];
